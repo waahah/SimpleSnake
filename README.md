@@ -1,9 +1,21 @@
-# Project Name:hello_world
+# A Snakes Life
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![License](https://img.shields.io/badge/Version-v0.1-yellow)
 
-### This is a test project
->[my GitHub homepage](https://github.com/waahah/hello_world)
+ Share a snake game I wrote before, very simple and detailed and notes are easy to understand
+
+### prerequisite
+> Learn a little python basics  
+
+### Running the tests
+>The Anaconda environment or Python interpreter must be installed on the native computer
+
+
+### Built with
+>Use the command to install the required dependencies in one go
+```python
+pip install -r requirements.txt
 ```
-you are so beautiful
-```
+### Contributing
+
+>[My Repository Homepage](https://github.com/waahah/SimpleSnake)
